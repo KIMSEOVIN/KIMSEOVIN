@@ -14,6 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-💻 Software Engineer
-📍 Working on cool projects  
 <img src="https://github.com/Yangyangwookun/Yangyangwookun/blob/main/풍뎅이.gif?raw=true" width="100%" />
