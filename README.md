@@ -3,7 +3,7 @@
 <img src="https://github.com/Yangyangwookun/Yangyangwookun/blob/main/풍뎅이.gif?raw=true" width="100%" />
 
 저는 **풀스택 개발자를 꿈꾸는 대학생 Yangyangwookun**입니다.  
-저는 01년생 현재 소프트웨어공학|일어일문학을 복수전공하며, 기술과 언어 두 가지 모두에 흥미를 가지고 성장하고 있어요.
+저는 01년생 현재 소프트웨어공학 | 일어일문학을 복수전공하고 있고, 기술과 언어 두 가지 모두에 흥미를 가지고 성장하고 있어요.
 
 ---
 
@@ -27,12 +27,12 @@
 ### Front-End
 - JavaScript / HTML / CSS
 - React / Vite / Next.js
-- Figma (디자인 협업 툴)
-- Flutter (모바일 앱 제작 경험)
+- Figma
+- Flutter
 
 ### ETC
 - Git / GitHub
-- ERDCloud (ERD 설계)
+- ERDCloud
 - Postman, VSCode, IntelliJ 등 다양한 도구 경험
 
 ---
